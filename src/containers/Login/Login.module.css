@@ -1,0 +1,37 @@
+.container{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+.logincard{
+    display: flex;
+    align-items: center;
+}
+
+.loginlink {
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    cursor: default;
+    display: flex;
+    align-items: center;          
+    height: 40px;
+}
+
+.loaderContainer{
+    background-color: #000;
+    width: 100%;
+    border-radius: 5px;
+    color: #fff;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.heading{
+    text-align: center;
+}
+.center{
+    text-align: center;
+}

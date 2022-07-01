@@ -1,0 +1,15 @@
+.coffeeCardWrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 10px;
+}
+.coffeeCard{
+    margin: 25px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.loader{
+margin-top: 15%;
+}
